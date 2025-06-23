@@ -5,7 +5,7 @@
 This repository presents a complete RNA-Seq pipeline from raw data to functional interpretation, revealing key transcriptomic differences between pregnancy and lactation in *Mus musculus*.
 
 ## 🔬 Summary
-- 6 SRA samples from GSE162396
+- 6 SRA samples from GSE60450
 - Single-end RNA-Seq
 - Alignment with HISAT2
 - Quantification with featureCounts
