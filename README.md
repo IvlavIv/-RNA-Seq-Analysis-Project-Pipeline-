@@ -28,13 +28,9 @@ This repository presents a complete RNA-Seq pipeline from raw data to functional
 - Luminal vs basal expression shifts observed
 
 ## 📁 Repo Contents
-- `/data`: FASTQ, BAM, counts
+- `/data`: FASTQ, BAM.bai, counts
 - `/results`: DESeq2 outputs, visualizations
 - `/scripts`: full analysis pipeline (R and shell)
-- `RNAseq_project_report.pdf`: full write-up
 
 ## 🧪 Reproducibility
 Run scripts sequentially from `01_*.R` to `06_pathview.R`. Environment: R 4.3+, Bioconductor 3.18.
-
-## 📄 License
-MIT
