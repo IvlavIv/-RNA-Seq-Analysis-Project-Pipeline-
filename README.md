@@ -20,7 +20,7 @@ This repository presents a complete RNA-Seq pipeline from raw data to functional
 
 | Heatmap of DEGs | Cell Cycle | Cytokine Pathway |
 |-----------------|------------|------------------|
-| ![](results/plots/heatmap_top20_DEGs.png) | ![](results/pathway_maps/cell_cycle_DEG.png) | ![](results/pathway_maps/cytokine_pathway.png) |
+| ![](results/plots/Heatmap_top20_DEGs.png) | ![](results/pathway_maps/cell_cycle_DEG.png) | ![](results/pathway_maps/cytokine_pathway.png) |
 
 ## 🧠 Key Findings
 - Strong suppression of cell cycle in lactation
