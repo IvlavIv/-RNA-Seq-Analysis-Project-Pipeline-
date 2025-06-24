@@ -14,9 +14,9 @@ This repository presents a complete RNA-Seq pipeline from raw data to functional
 - Visualizations with ggplot2, pheatmap, pathview
 
 ## 📊 Highlight Visuals
-| MA Plot | Volcano Plot | PCA Plot |
-|--------|---------------|----------|
-| ![](results/plots/MA_plot.png) | ![](results/plots/volcano_plot.png) | ![](results/plots/PCA_plot.png) |
+| MA Plot | Volcano Plot | 
+|--------|---------------|
+| ![](results/plots/MA_plot.png) | ![](results/plots/volcano_plot.png) |
 
 | Heatmap of DEGs | Cell Cycle | Cytokine Pathway |
 |-----------------|------------|------------------|
